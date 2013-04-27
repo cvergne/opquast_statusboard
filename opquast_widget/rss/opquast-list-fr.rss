@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Opquast - FR</title><link>https://checklists.opquast.com/fr/opquastv2</link><lang>fr-fr</lang><copyright>Opquast - http://creativecommons.org/licenses/by-sa/2.0/fr/</copyright>
+                                    <item>
+                                        <title>#1 - Alternatives - Chaque image est dotée d'une alternative textuelle appropriée</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/500/</link>
+                                        <category>Alternatives</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/500/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#2 - Code - Le code source de chaque page débute par un déclaration de type de document (doctype) dont la syntaxe est conforme à celles recommandées par le W3C</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/501/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/501/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#3 - Code - Le contenu de chaque page est organisé selon une structure de titres et sous-titres hiérarchisée.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/502/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/502/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#4 - Code - Le site n'impose pas de redirection ou de rafraichissement automatique côté client</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/503/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/503/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#5 - Code - Les styles ne sont pas utilisés pour générer du contenu</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/504/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/504/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#6 - Code - Les dates sont présentées dans des formats explicites</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/505/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/505/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#7 - Contact  - Le site propose au moins un moyen de contact</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/506/</link>
+                                        <category>Contact </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/506/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#8 - Contact  - Les coordonnées postales et téléphoniques de la représentation locale ou du siège social des sociétés et organisations sont indiquées</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/507/</link>
+                                        <category>Contact </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/507/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#9 - Contenus - Le titre de chaque page permet d'identifier son contenu</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/508/</link>
+                                        <category>Contenus</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/508/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#10 - Contenus - Les informations relatives aux droits de copie et de réutilisation sont accessibles depuis toutes les pages.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/509/</link>
+                                        <category>Contenus</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/509/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#11 - Contenus - Les contenus publicitaires ou sponsorisés sont identifiés comme tels</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/510/</link>
+                                        <category>Contenus</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/510/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#12 - Contenus - Le titre de chaque page permet d'identifier le site</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/511/</link>
+                                        <category>Contenus</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/511/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#13 - E-Commerce - Les conditions de financement (taux global du crédit, conditions, réserves et délais d'acceptation) sont indiquées</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/512/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/512/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#14 - E-Commerce - Le délai de livraison estimé est indiqué avant la validation définitive de la commande.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/513/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/513/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#15 - E-Commerce - Les conditions de vente ou d'utilisation sont accessibles depuis toutes les pages</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/514/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/514/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#16 - E-Commerce - Le numéro d'immatriculation délivré aux sociétés ou organisations au terme des procédures légales d'enregistrement en vigueur dans leur pays est indiqué</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/515/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/515/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#17 - E-Commerce - La nature et les caractéristiques quantifiables des produits et services (dimensions, durée, contenance, etc.) sont indiquées.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/516/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/516/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#18 - E-Commerce - La disponibilité des produits est indiquée avant la validation définitive de la commande.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/517/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/517/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#19 - E-Commerce - Les prix affichés mentionnent le détail des taxes et suppléments éventuels ainsi que le montant hors taxes</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/518/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/518/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#20 - E-Commerce - La période et les conditions de validité des offres spéciales et promotions sont indiquées.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/519/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/519/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#21 - E-Commerce - La modification de la quantité de chaque article, l'ajout ou la suppression d'un ou plusieurs articles reste possible avant la validation définitive de la commande</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/520/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/520/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#22 - E-Commerce - Le sous-total détaillé (quantités, montants, frais, assurances, etc.) est indiqué avant la validation définitive de la commande.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/521/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/521/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#23 - E-Commerce - Les moyens de paiement acceptés et les procédures correspondantes sont indiqués</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/522/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/522/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#24 - E-Commerce - Les conditions de garantie (durée, options, extensions, tarifs, restrictions, etc) sont indiquées</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/523/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/523/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#25 - E-Commerce - Les conditions de fonctionnement du service après-vente (tarifs, horaires, moyens de contact, etc) sont indiquées</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/524/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/524/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#26 - E-Commerce - Une adresse de livraison différente de l'adresse de facturation peut être spécifiée.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/525/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/525/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#27 - E-Commerce - Les informations relatives à la zone de livraison des produits ou de réalisation des services sont indiquées</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/526/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/526/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#28 - E-Commerce - Aucun produit ni service annexe n'est ajouté au panier de commande sans que cette action soit déclenchée par l'utilisateur.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/527/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/527/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#29 - Espaces publics - Le site propose au moins un moyen de contacter le modérateur des espaces publics.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/528/</link>
+                                        <category>Espaces publics</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/528/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#30 - Fichiers et multimédia  - La durée des contenus vidéo ou audio est indiquée</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/529/</link>
+                                        <category>Fichiers et multimédia </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/529/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#31 - Fichiers et multimédia  - Les sons et vidéos sont déclenchés par l'utilisateur.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/530/</link>
+                                        <category>Fichiers et multimédia </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/530/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#32 - Formulaires - La création d'un mot de passe par l'utilisateur est validée par une double saisie</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/531/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/531/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#33 - Fichiers et multimédia  - Le format des fichiers proposés en téléchargement est indiqué.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/532/</link>
+                                        <category>Fichiers et multimédia </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/532/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#34 - Fichiers et multimédia  - Les animations, sons et clignotements peuvent être mis en pause</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/533/</link>
+                                        <category>Fichiers et multimédia </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/533/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#35 - Formulaires - Chaque champ de formulaire est associé dans le code source à une étiquette qui lui est propre</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/534/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/534/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#36 - Formulaires - En cas de rejet des données saisies dans un formulaire, les champs contenant les données rejetées sont indiqués à l'utilisateur.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/535/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/535/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#37 - Formulaires - Les processus complexes sont accompagnés de la liste de leurs étapes</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/536/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/536/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#38 - Formulaires - L'étape en cours d'un processus complexe est indiquée</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/537/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/537/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#39 - Formulaires - L'étiquette de chaque champ de formulaire indique si la saisie est obligatoire</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/538/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/538/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#40 - Formulaires - La page affichée après l'envoi d'un formulaire permet de reprendre directement la navigation</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/539/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/539/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#41 - Hyperliens - Chaque lien est doté d'un intitulé dans le code source</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/540/</link>
+                                        <category>Hyperliens</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/540/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#42 - Hyperliens - Le soulignement est réservé aux hyperliens.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/541/</link>
+                                        <category>Hyperliens</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/541/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#43 - Hyperliens - Les hyperliens sont visuellement différenciés du reste du contenu.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/542/</link>
+                                        <category>Hyperliens</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/542/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#44 - Identification  - L'identité de l'auteur, de la société ou de l'organisation est indiquée</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/543/</link>
+                                        <category>Identification </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/543/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#45 - Identification  - Le nom du site et/ou le nom de l'auteur sont indiqués sur chaque page.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/544/</link>
+                                        <category>Identification </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/544/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#46 - Identification  - L'identité de la personne ou du service responsable des contenus est indiquée</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/545/</link>
+                                        <category>Identification </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/545/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#47 - Identification  - La page d'accueil expose la nature des contenus et services proposés</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/546/</link>
+                                        <category>Identification </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/546/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#48 - Identification  - Si le site est réservé ou destiné à un public spécifique, ce public est mentionné au moins sur la page d'accueil.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/547/</link>
+                                        <category>Identification </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/547/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#49 - Internationalisation  - Le code source de chaque page indique la langue principale du contenu</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/548/</link>
+                                        <category>Internationalisation </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/548/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#50 - Internationalisation  - Le pays est précisé dans toutes les adresses postales</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/549/</link>
+                                        <category>Internationalisation </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/549/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#51 - Internationalisation  - Chaque numéro de téléphone est indiqué au format international</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/550/</link>
+                                        <category>Internationalisation </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/550/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#52 - Navigation - Le site n'emploie pas la technique des jeux de cadres</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/551/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/551/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#53 - Navigation - Les iframes sont dotées d'un titre explicite</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/552/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/552/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#54 - Navigation - Si toutes les pages du site ne sont pas directement accessibles depuis la page d'accueil, un plan du site est accessible depuis chaque page</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/553/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/553/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#55 - Navigation - Chaque page affiche une information permettant de connaître son emplacement dans l'arborescence du site.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/554/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/554/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#56 - Navigation - Il est possible de revenir à la page d'accueil depuis toutes les pages.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/555/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/555/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#57 - Navigation - La navigation reste possible sur l'ensemble du site en utilisant exclusivement le clavier.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/556/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/556/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#58 - Navigation - Le focus clavier n'est ni supprimé ni masqué</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/557/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/557/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#59 - Navigation - L'utilisateur est averti des ouvertures de nouvelles fenêtres</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/558/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/558/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#60 - Navigation - La navigation sur le site ne provoque pas l'ouverture de fenêtres surgissantes ("popups")</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/559/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/559/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#61 - Navigation - Le site ne comporte pas de liens internes vers des pages en construction</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/560/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/560/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#62 - Navigation - Si toutes les pages du site ne sont pas directement accessibles depuis le plan du site, un moteur de recherche interne est accessible depuis chaque page</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/561/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/561/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#63 - Navigation - La consultation du site ne redimensionne pas la fenêtre du navigateur.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/562/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/562/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#64 - Newsletter - Un lien de désinscription est présent dans chaque newsletter</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/563/</link>
+                                        <category>Newsletter</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/563/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#65 - Newsletter - Le champ "destinataire" de la newsletter ne comprend que le mail du destinataire (ou à défaut un mail "générique" créé par l'expéditeur)</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/564/</link>
+                                        <category>Newsletter</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/564/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#66 - Newsletter - L'inscription aux newsletters est soumise à un processus de confirmation.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/565/</link>
+                                        <category>Newsletter</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/565/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#67 - Présentation - La charte graphique est cohérente sur l'ensemble du site.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/566/</link>
+                                        <category>Présentation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/566/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#68 - Sécurité et confidentialité - Le site propose une procédure de réinitialisation du mot de passe en cas de perte, de vol ou d'oubli</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/567/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/567/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#69 - Sécurité et confidentialité - Les échanges de données sensibles sont sécurisés et signalés comme tels</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/568/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/568/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#70 - Sécurité et confidentialité - Les données sensibles ne sont pas transmises en clair dans les URL</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/569/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/569/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#71 - Sécurité et confidentialité - Les informations sur la sécurité des transactions sont indiquées</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/570/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/570/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#72 - Sécurité et confidentialité - L'identité des prestataires impliqués dans les transactions est précisée</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/571/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/571/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#73 - Sécurité et confidentialité - Les certificats de sécurité sont signés et en cours de validité</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/572/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/572/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#74 - Sécurité et confidentialité - La politique de confidentialité et de respect de la vie privée est accessible depuis toutes les pages</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/573/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/573/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#75 - Serveur et Performances - Les entêtes envoyés par le serveur contiennent les informations relatives au jeu de caractères employé</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/574/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/574/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#76 - Serveur et Performances - Le serveur envoie les informations permettant la mise en cache des contenus.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/575/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/575/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#77 - Serveur et Performances - L'adresse du site et de ses sous-domaines fonctionnent avec ou sans préfixe www.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/576/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/576/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#78 - Serveur et Performances - Le serveur envoie une page d'erreur 404 personnalisée.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/577/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/577/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#79 - Serveur et Performances - Le serveur envoie un code http 404 pour les ressources non trouvées</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/578/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/578/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#80 - Serveur et Performances - Le serveur transmet des contenus compressés aux clients qui les acceptent</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/579/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/579/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#81 - Syndication  - Le code source des fils de syndication indique leur fréquence de mise à jour</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/580/</link>
+                                        <category>Syndication </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/580/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#82 - Syndication  - Les hyperliens contenus dans les fils de syndication sont absolus.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/581/</link>
+                                        <category>Syndication </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/581/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#83 - Syndication  - Les fils de syndication sont détectables par les agents utilisateurs</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/582/</link>
+                                        <category>Syndication </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/582/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#84 - Tableaux - Les cellules des tableaux de données sont reliées à leurs en-têtes.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/583/</link>
+                                        <category>Tableaux</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/583/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#85 - Alternatives - L'information n'est pas véhiculée uniquement par la couleur.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/584/</link>
+                                        <category>Alternatives</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/584/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#86 - Alternatives - Les objets inclus sont dotés d'une alternative appropriée</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/585/</link>
+                                        <category>Alternatives</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/585/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#87 - Alternatives - Les captchas audio peuvent être réécoutés à volonté</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/586/</link>
+                                        <category>Alternatives</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/586/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#88 - Code - Le contenu ne comporte pas de tableaux imbriqués</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/587/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/587/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#89 - Code - Le codage de caractères utilisé est UTF-8</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/588/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/588/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#90 - Code - Les textes pouvant être mis en forme via des styles ne sont pas remplacés par des images</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/589/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/589/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#91 - Code - Les mots ne comportent ni espaces ni balisage interne.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/590/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/590/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#92 - Contact  - Le site propose au moins deux moyens de contact</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/591/</link>
+                                        <category>Contact </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/591/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#93 - Contact  - Chaque demande d'information fait l'objet d'un accusé de réception</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/592/</link>
+                                        <category>Contact </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/592/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#94 - Contact  - Les délais de réponse aux demandes d'information sont indiqués. </title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/593/</link>
+                                        <category>Contact </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/593/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#95 - Contenus - Le site fournit aux utilisateurs la possibilité de connaitre les nouveaux contenus ou services</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/594/</link>
+                                        <category>Contenus</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/594/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#96 - Contenus - Les syntaxes cryptiques (langage SMS, ACSII art, etc) sont explicitées ou traduites</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/595/</link>
+                                        <category>Contenus</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/595/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#97 - Code - Les éléments visuellement présentés sous forme de liste sont balisés de façon appropriée dans le code source</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/596/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/596/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#98 - Code - L'emplacement des blocs de navigation est cohérent dans le code source de toutes les pages</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/597/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/597/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#99 - Code - Le contenu et le sens de chaque page ne sont pas altérés lorsque les styles sont désactivés</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/598/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/598/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#100 - Code - Le code source de chaque page contient une metadonnée qui définit le jeu de caractères</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/599/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/599/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#101 - E-Commerce - Les mentions d'appartenance à un ordre ou groupe professionnel, d'un label ou d'une récompense sont accompagnées d'un lien vers la source</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/600/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/600/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#102 - E-Commerce - Les recours en cas de litige sont indiqués dans les conditions générales de vente ou d'utilisation</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/601/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/601/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#103 - E-Commerce - Les produits indisponibles font l'objet d'une différenciation visuelle et textuelle</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/602/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/602/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#104 - E-Commerce - Le site accepte au moins deux moyens de paiement</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/603/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/603/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#105 - E-Commerce - Un courriel indiquant la référence de la transaction et les données de la commande est envoyé suite à la validation.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/604/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/604/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#106 - E-Commerce - La référence de la transaction est affichée au client après la validation de sa commande.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/605/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/605/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#107 - E-Commerce - Les conditions de débit ou d'encaissement sont spécifiées avant la validation définitive de la commande</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/606/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/606/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#108 - E-Commerce - Les horaires et tarifs de fonctionnement des services mis à la disposition des utilisateurs sont indiqués</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/607/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/607/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#109 - Espaces publics - Les contenus ou fichiers destinés à des espaces publics peuvent être vérifiés avant leur envoi définitif</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/608/</link>
+                                        <category>Espaces publics</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/608/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#110 - Espaces publics - Les conditions de modération des espaces publics sont indiquées</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/609/</link>
+                                        <category>Espaces publics</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/609/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#111 - Espaces publics - Les espaces publics proposent au moins un moyen de signaler les abus</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/610/</link>
+                                        <category>Espaces publics</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/610/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#112 - Fichiers et multimédia  - Le texte des documents PDF internes est sélectionnable.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/611/</link>
+                                        <category>Fichiers et multimédia </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/611/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#113 - Fichiers et multimédia  - La taille des fichiers internes proposés en téléchargement est indiquée.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/612/</link>
+                                        <category>Fichiers et multimédia </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/612/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#114 - Fichiers et multimédia  - Les vignettes ne sont pas des images de taille supérieure redimensionnées côté client.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/613/</link>
+                                        <category>Fichiers et multimédia </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/613/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#115 - Formulaires - En cas de rejet des données saisies dans un formulaire, les raisons du rejet sont indiquées à l'utilisateur.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/614/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/614/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#116 - Formulaires - Lors de la saisie d'un formulaire réparti sur plusieurs pages, un récapitulatif global est affiché avant l'envoi définitif.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/615/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/615/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#117 - Formulaires - En cas de rejet des données saisies dans un formulaire, toutes les données saisies peuvent être modifiées par l'utilisateur.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/616/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/616/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#118 - Formulaires - La soumission d'un formulaire est suivie d'un message indiquant la réussite ou non de l'action souhaitée</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/617/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/617/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#119 - Formulaires - L'étiquette de chaque champ de formulaire indique, le cas échéant, quel format de saisie doit être respecté</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/618/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/618/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#120 - Hyperliens - Les hyperliens de même nature ont des couleurs, des formes et des comportements identiques sur toutes les pages.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/619/</link>
+                                        <category>Hyperliens</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/619/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#121 - Hyperliens - Le survol ou l'activation des hyperliens ne modifie pas la mise en page.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/620/</link>
+                                        <category>Hyperliens</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/620/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#122 - Hyperliens - Le site n'interdit pas la mise en place de liens entrants</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/621/</link>
+                                        <category>Hyperliens</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/621/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#123 - Hyperliens - Tous les hyperliens internes du site sont valides.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/622/</link>
+                                        <category>Hyperliens</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/622/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#124 - Hyperliens - Le site n'applique pas le même style aux liens visités et non visités</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/623/</link>
+                                        <category>Hyperliens</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/623/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#125 - Identification  - La racine du site contient des instructions pour les robots d'indexation</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/624/</link>
+                                        <category>Identification </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/624/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#126 - Identification  - Le code source de chaque page contient une metadonnée qui en décrit le contenu</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/625/</link>
+                                        <category>Identification </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/625/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#127 - Identification  - L'adresse complète et le numéro de téléphone des sociétés et organisations sont accessibles depuis toutes les pages du site</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/626/</link>
+                                        <category>Identification </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/626/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#128 - Identification  - Le code source des pages contient un appel valide à un icône de favori.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/627/</link>
+                                        <category>Identification </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/627/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#129 - Internationalisation  - La langue principale de la page cible d'un hyperlien est identifiable lorsqu'elle diffère de celle de la page d'origine</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/628/</link>
+                                        <category>Internationalisation </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/628/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#130 - Internationalisation  - Chaque page permet d'accéder à ses traductions disponibles</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/629/</link>
+                                        <category>Internationalisation </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/629/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#131 - Navigation - Les icônes de navigation sont accompagnées d'une légende explicite</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/630/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/630/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#132 - Navigation - Chaque page contient des liens d'accès rapide placés au début du code source</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/631/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/631/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#133 - Navigation - La page de résultats de recherche indique le nombre de résultats, le nombre de pages de résultats, et le nombre de résultats par page</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/632/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/632/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#134 - Navigation - La navigation au clavier s'effectue dans un ordre prévisible.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/633/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/633/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#135 - Navigation - Les nouvelles fenêtres dimensionnées et les fenêtres modales sont dotées d'un bouton de fermeture explicite</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/634/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/634/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#136 - Navigation - Les blocs de navigation de même nature sont affichés au même emplacement sur toutes les pages</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/635/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/635/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#137 - Navigation - Les liens provoquant l'ouverture d'un logiciel externe ont un libellé explicite.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/636/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/636/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#138 - Navigation - Si le site n'est pas réservé à un public spécifique, l'accès aux contenus est immédiat</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/637/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/637/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#139 - Navigation - Un contenu qui doit être restitué dans un lecteur d'écran ne lui est pas dissimulé</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/638/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/638/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#140 - Présentation - Le site propose au moins une feuille de style dédiée à l'impression</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/639/</link>
+                                        <category>Présentation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/639/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#141 - Présentation - Une famille générique de police est indiquée comme dernier élément de substitution.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/640/</link>
+                                        <category>Présentation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/640/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#142 - Présentation - La taille des polices destinées à l'affichage écran est exprimée en taille variable et non en taille fixe.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/641/</link>
+                                        <category>Présentation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/641/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#143 - Sécurité et confidentialité - Le serveur n'envoie pas la liste des fichiers des répertoires n'ayant pas de page d'index</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/642/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/642/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#144 - Sécurité et confidentialité - L'objectif des cookies et les limitations inhérentes à leur refus sont expliqués</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/643/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/643/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#145 - Sécurité et confidentialité - Les comptes ou abonnements ouverts en ligne peuvent être fermés par le même moyen.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/644/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/644/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#146 - Serveur et Performances - Le serveur envoie l'indication de la langue principale du contenu.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/645/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/645/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#147 - Tableaux - Les titres des tableaux de données sont renseignés.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/646/</link>
+                                        <category>Tableaux</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/646/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#148 - Sécurité et confidentialité - Les mots de passe peuvent être choisis ou changés par l'utilisateur</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/647/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/647/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#149 - Sécurité et confidentialité - La procédure d'accès et de rectification des données personnelles est décrite</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/648/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/648/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#150 - Serveur et Performances - Le serveur envoie une page d'interdiction 403 personnalisée.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/649/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/649/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#151 - Syndication  - Le site propose au moins un lien vers chaque fil de syndication.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/650/</link>
+                                        <category>Syndication </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/650/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#152 - Tableaux - La linéarisation des tableaux utilisés pour la mise en page ne nuit pas à la compréhension des contenus</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/651/</link>
+                                        <category>Tableaux</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/651/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#153 - Tableaux - Les tableaux de données ne sont pas simulés à l'aide de texte mis en forme</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/652/</link>
+                                        <category>Tableaux</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/652/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#201 - Newsletter - La fréquence d'envoi des newsletters est consultable avant l'abonnement</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/700/</link>
+                                        <category>Newsletter</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/700/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#154 - Alternatives - Les captchas sont accompagnés d'une solution alternative d'accès </title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/653/</link>
+                                        <category>Alternatives</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/653/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#155 - Alternatives - Chaque contenu audio et vidéo est accompagné de sa transcription textuelle</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/654/</link>
+                                        <category>Alternatives</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/654/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#156 - Code - Les styles en ligne sont utilisés de manière appropriée</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/655/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/655/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#157 - Code - Le code source de chaque page ne comporte pas d'erreur portant sur l'arbre du document ou la syntaxe des balises et attributs.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/656/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/656/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#158 - Code - Le code source de chaque page ne contient pas d'éléments ou d'attributs de présentation</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/657/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/657/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#159 - Code - Les dimensions réelles des images sont indiquées dans le code source.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/658/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/658/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#160 - Code - La première occurence d'une abréviation ou d'un acronyme dans le corps de chaque page donne accès à sa signification</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/659/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/659/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#161 - Code - L'accès aux contenus et services est possible sans le support des scripts</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/660/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/660/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#162 - Code - Le code source des pages est valide au regard de la grammaire choisie</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/661/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/661/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#163 - Code - Les citations sont balisées de façon appropriée</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/662/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/662/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#164 - Code - Le code source de chaque page ne contient pas d'éléments détournés à des fins de présentation</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/663/</link>
+                                        <category>Code</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/663/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#165 - Contact  - Les données contenus dans le Whois du site permettent de le relier directement à son propriétaire</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/664/</link>
+                                        <category>Contact </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/664/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#166 - Contenus - Les symboles graphiques sont des images HTML et non des caractères unicode.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/665/</link>
+                                        <category>Contenus</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/665/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#167 - Contenus - Un lexique ou un glossaire adapté au public visé explique le vocabulaire sectoriel ou technique</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/666/</link>
+                                        <category>Contenus</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/666/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#168 - Contenus - Le contenu de chaque page du site ne comporte pas de faute d'orthographe</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/667/</link>
+                                        <category>Contenus</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/667/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#169 - Contenus - Si le site propose un espace personnel ou abonné, il est possible de sauvegarder les contenus personnels dans un format standard</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/668/</link>
+                                        <category>Contenus</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/668/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#170 - Contenus - Une metadonnée indique l'URL de référence des contenus proposés sous plusieurs formes.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/669/</link>
+                                        <category>Contenus</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/669/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#171 - E-Commerce - Le site propose au moins un moyen de contacter le responsable des réclamations.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/670/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/670/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#172 - E-Commerce - Les conditions de remboursement (délais, frais et justificatifs exigés) sont indiquées</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/671/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/671/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#173 - E-Commerce - L'adresse et les conditions de retour des produits (sur site, atelier) sont indiqués</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/672/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/672/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#174 - E-Commerce - Chaque réclamation fait l'objet d'un accusé de réception</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/673/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/673/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#175 - E-Commerce - Le mode de dépôt et la procédure de traitement des réclamations sont indiqués</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/674/</link>
+                                        <category>E-Commerce</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/674/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#176 - Espaces publics - Les informations destinées à des espaces publics peuvent être prévisualisées sous la forme o√π elles seront affichées.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/675/</link>
+                                        <category>Espaces publics</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/675/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#177 - Fichiers et multimédia  - Le déroulement des animations ne bloque pas la navigation ou l'accès aux contenus</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/676/</link>
+                                        <category>Fichiers et multimédia </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/676/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#178 - Fichiers et multimédia  - Un lien d'information est proposé pour chaque plugin nécessaire à la consultation du contenu</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/677/</link>
+                                        <category>Fichiers et multimédia </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/677/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#179 - Fichiers et multimédia  - Les documents PDF internes sont balisés.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/678/</link>
+                                        <category>Fichiers et multimédia </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/678/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#180 - Formulaires - Les validations de formulaires côté client ont une alternative côté serveur.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/679/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/679/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#181 - Formulaires - L'utilisateur est averti lorsque une saisie est sensible à la casse</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/680/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/680/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#182 - Formulaires - Chaque étiquette de formulaire est visuellement rattachée au champ qu'elle décrit</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/681/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/681/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#183 - Formulaires - Les champs de formulaire qui nécessitent une information commune sont regroupés sous une même légende </title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/682/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/682/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#184 - Formulaires - Les éléments d'une liste déroulante qui peuvent être regroupés le sont de manière appropriée</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/683/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/683/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#185 - Formulaires - Les listes d'options de formulaires sont présentées dans un ordre identifiable</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/684/</link>
+                                        <category>Formulaires</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/684/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#186 - Hyperliens - Les hyperliens consécutifs sont séparés visuellement</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/685/</link>
+                                        <category>Hyperliens</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/685/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#187 - Hyperliens - Le libellé de chaque hyperliens décrit sa fonction ou la nature du contenu vers lequel ils pointe</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/686/</link>
+                                        <category>Hyperliens</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/686/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#188 - Hyperliens - Les hyperliens internes et externes sont différenciés.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/687/</link>
+                                        <category>Hyperliens</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/687/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#189 - Identification  - L'extension utilisée est cohérente avec l'identité, l'activité, la zone géographique couverte ou avec le nom de domaine</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/688/</link>
+                                        <category>Identification </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/688/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#190 - Identification  - Si le site déclare respecter un ou plusieurs standards ou référentiels, un lien est proposé vers chacun d'entre eux.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/689/</link>
+                                        <category>Identification </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/689/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#191 - Identification  - Le site propose un fichier sitemap indiquant les contenus à explorer</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/690/</link>
+                                        <category>Identification </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/690/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#192 - Internationalisation  - Les liens vers les versions équivalentes de la page ou du site sont rédigés dans leur langue cible.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/691/</link>
+                                        <category>Internationalisation </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/691/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#193 - Internationalisation  - Chaque changement de langue est signalé</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/692/</link>
+                                        <category>Internationalisation </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/692/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#194 - Internationalisation  - Les liens d'accès aux versions traduites pointent directement vers la traduction de la page courante.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/693/</link>
+                                        <category>Internationalisation </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/693/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#195 - Internationalisation  - La langue des fichiers en téléchargement est précisée, lorsqu'elle diffère de celle de la page d'origine.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/694/</link>
+                                        <category>Internationalisation </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/694/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#196 - Internationalisation  - Le sens de lecture du contenu est indiqué lorsqu'il diffère de celui par défaut.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/695/</link>
+                                        <category>Internationalisation </category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/695/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#197 - Navigation - La navigation sur le site ne provoque pas d'ouvertures de nouvelles fenêtres</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/696/</link>
+                                        <category>Navigation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/696/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#198 - Newsletter - La désinscription aux newsletters est possible depuis le site</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/697/</link>
+                                        <category>Newsletter</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/697/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#199 - Newsletter - La date de diffusion et/ou le numéro des newsletters sont indiqués dans le sujet des messages.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/698/</link>
+                                        <category>Newsletter</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/698/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#200 - Newsletter - La dernière newsletter envoyée est disponible en ligne</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/699/</link>
+                                        <category>Newsletter</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/699/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#202 - Newsletter - Les archives de newsletter sont disponibles en ligne</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/701/</link>
+                                        <category>Newsletter</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/701/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#203 - Présentation - Le nombre de polices utilisées sur le site est inférieur ou égal à trois (sauf présentation de travaux ou produits graphiques).</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/702/</link>
+                                        <category>Présentation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/702/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#204 - Présentation - Les contenus sont présentés avec un contraste suffisant par rapport à leur arrière-plan</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/703/</link>
+                                        <category>Présentation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/703/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#205 - Présentation - Le contenu de chaque page est disponible à l'impression sans blocs de navigation</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/704/</link>
+                                        <category>Présentation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/704/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#206 - Présentation - Le site propose une ou plusieurs feuilles de style dédiées aux terminaux mobiles</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/705/</link>
+                                        <category>Présentation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/705/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#207 - Présentation - Les phrases ou ensembles de mots mis en images ne sont pas divisés</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/706/</link>
+                                        <category>Présentation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/706/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#208 - Présentation - Un contenu n'est pas désigné uniquement par sa forme, ou par sa position à l'écran.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/707/</link>
+                                        <category>Présentation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/707/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#209 - Présentation - Le contenu textuel reste lisible avec une taille de caractère augmentée d'un facteur 2 dans le navigateur.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/708/</link>
+                                        <category>Présentation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/708/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#210 - Présentation - Les mises en majuscules à des fins décoratives sont effectuées à l'aide des styles</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/709/</link>
+                                        <category>Présentation</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/709/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#211 - Sécurité et confidentialité - Un dispositif sensibilise l'utilisateur sur le degré de sécurisation du mot de passe qu'il choisit</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/710/</link>
+                                        <category>Sécurité et confidentialité</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/710/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#212 - Serveur et Performances - Le serveur respecte l'ordre préférentiel de langues des outils de consultation.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/711/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/711/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#213 - Serveur et Performances - Les appels aux scripts sont placés après le contenu</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/712/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/712/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#214 - Serveur et Performances - Le menu principal de navigation figure sur les pages d'erreur personnalisées.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/713/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/713/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#215 - Serveur et Performances - Les fonctions de scripts sont placés dans des fichiers externes.</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/714/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/714/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#216 - Serveur et Performances - Les scripts sont minifiés</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/715/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/715/</guid>
+                                    </item>
+                                    <item>
+                                        <title>#217 - Serveur et Performances - Les informations de style sont minifiées</title>
+                                        <link>https://checklists.opquast.com/fr/oqsv2/criteria/716/</link>
+                                        <category>Serveur et Performances</category>
+                                        <guid isPermaLink="true">https://checklists.opquast.com/fr/oqsv2/criteria/716/</guid>
+                                    </item></channel></rss>

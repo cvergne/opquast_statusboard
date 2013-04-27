@@ -1,0 +1,217 @@
+1,Alternatives,1,Chaque image est dotée d'une alternative textuelle appropriée
+2,Code,1,Le code source de chaque page débute par un déclaration de type de document (doctype) dont la syntaxe est conforme à celles recommandées par le W3C
+3,Code,1,Le contenu de chaque page est organisé selon une structure de titres et sous-titres hiérarchisée.
+4,Code,1,Le site n'impose pas de redirection ou de rafraichissement automatique côté client
+5,Code,1,Les styles ne sont pas utilisés pour générer du contenu
+6,Code,1,Les dates sont présentées dans des formats explicites
+7,Contact ,1,Le site propose au moins un moyen de contact
+8,Contact ,1,Les coordonnées postales et téléphoniques de la représentation locale ou du siège social des sociétés et organisations sont indiquées
+9,Contenus,1,Le titre de chaque page permet d'identifier son contenu
+10,Contenus,1,Les informations relatives aux droits de copie et de réutilisation sont accessibles depuis toutes les pages.
+11,Contenus,1,Les contenus publicitaires ou sponsorisés sont identifiés comme tels
+12,Contenus,1,Le titre de chaque page permet d'identifier le site
+13,E-Commerce,1,"Les conditions de financement (taux global du crédit, conditions, réserves et délais d'acceptation) sont indiquées"
+14,E-Commerce,1,Le délai de livraison estimé est indiqué avant la validation définitive de la commande.
+15,E-Commerce,1,Les conditions de vente ou d'utilisation sont accessibles depuis toutes les pages
+16,E-Commerce,1,Le numéro d'immatriculation délivré aux sociétés ou organisations au terme des procédures légales d'enregistrement en vigueur dans leur pays est indiqué
+17,E-Commerce,1,"La nature et les caractéristiques quantifiables des produits et services (dimensions, durée, contenance, etc.) sont indiquées."
+18,E-Commerce,1,La disponibilité des produits est indiquée avant la validation définitive de la commande.
+19,E-Commerce,1,Les prix affichés mentionnent le détail des taxes et suppléments éventuels ainsi que le montant hors taxes
+20,E-Commerce,1,La période et les conditions de validité des offres spéciales et promotions sont indiquées.
+21,E-Commerce,1,"La modification de la quantité de chaque article, l'ajout ou la suppression d'un ou plusieurs articles reste possible avant la validation définitive de la commande"
+22,E-Commerce,1,"Le sous-total détaillé (quantités, montants, frais, assurances, etc.) est indiqué avant la validation définitive de la commande."
+23,E-Commerce,1,Les moyens de paiement acceptés et les procédures correspondantes sont indiqués
+24,E-Commerce,1,"Les conditions de garantie (durée, options, extensions, tarifs, restrictions, etc) sont indiquées"
+25,E-Commerce,1,"Les conditions de fonctionnement du service après-vente (tarifs, horaires, moyens de contact, etc) sont indiquées"
+26,E-Commerce,1,Une adresse de livraison différente de l'adresse de facturation peut être spécifiée.
+27,E-Commerce,1,Les informations relatives à la zone de livraison des produits ou de réalisation des services sont indiquées
+28,E-Commerce,1,Aucun produit ni service annexe n'est ajouté au panier de commande sans que cette action soit déclenchée par l'utilisateur.
+29,Espaces publics,1,Le site propose au moins un moyen de contacter le modérateur des espaces publics.
+30,Fichiers et multimédia ,1,La durée des contenus vidéo ou audio est indiquée
+31,Fichiers et multimédia ,1,Les sons et vidéos sont déclenchés par l'utilisateur.
+32,Formulaires,1,La création d'un mot de passe par l'utilisateur est validée par une double saisie
+33,Fichiers et multimédia ,1,Le format des fichiers proposés en téléchargement est indiqué.
+34,Fichiers et multimédia ,1,"Les animations, sons et clignotements peuvent être mis en pause"
+35,Formulaires,1,Chaque champ de formulaire est associé dans le code source à une étiquette qui lui est propre
+36,Formulaires,1,"En cas de rejet des données saisies dans un formulaire, les champs contenant les données rejetées sont indiqués à l'utilisateur."
+37,Formulaires,1,Les processus complexes sont accompagnés de la liste de leurs étapes
+38,Formulaires,1,L'étape en cours d'un processus complexe est indiquée
+39,Formulaires,1,L'étiquette de chaque champ de formulaire indique si la saisie est obligatoire
+40,Formulaires,1,La page affichée après l'envoi d'un formulaire permet de reprendre directement la navigation
+41,Hyperliens,1,Chaque lien est doté d'un intitulé dans le code source
+42,Hyperliens,1,Le soulignement est réservé aux hyperliens.
+43,Hyperliens,1,Les hyperliens sont visuellement différenciés du reste du contenu.
+44,Identification ,1,"L'identité de l'auteur, de la société ou de l'organisation est indiquée"
+45,Identification ,1,Le nom du site et/ou le nom de l'auteur sont indiqués sur chaque page.
+46,Identification ,1,L'identité de la personne ou du service responsable des contenus est indiquée
+47,Identification ,1,La page d'accueil expose la nature des contenus et services proposés
+48,Identification ,1,"Si le site est réservé ou destiné à un public spécifique, ce public est mentionné au moins sur la page d'accueil."
+49,Internationalisation ,1,Le code source de chaque page indique la langue principale du contenu
+50,Internationalisation ,1,Le pays est précisé dans toutes les adresses postales
+51,Internationalisation ,1,Chaque numéro de téléphone est indiqué au format international
+52,Navigation,1,Le site n'emploie pas la technique des jeux de cadres
+53,Navigation,1,Les iframes sont dotées d'un titre explicite
+54,Navigation,1,"Si toutes les pages du site ne sont pas directement accessibles depuis la page d'accueil, un plan du site est accessible depuis chaque page"
+55,Navigation,1,Chaque page affiche une information permettant de connaître son emplacement dans l'arborescence du site.
+56,Navigation,1,Il est possible de revenir à la page d'accueil depuis toutes les pages.
+57,Navigation,1,La navigation reste possible sur l'ensemble du site en utilisant exclusivement le clavier.
+58,Navigation,1,Le focus clavier n'est ni supprimé ni masqué
+59,Navigation,1,L'utilisateur est averti des ouvertures de nouvelles fenêtres
+60,Navigation,1,"La navigation sur le site ne provoque pas l'ouverture de fenêtres surgissantes (""popups"")"
+61,Navigation,1,Le site ne comporte pas de liens internes vers des pages en construction
+62,Navigation,1,"Si toutes les pages du site ne sont pas directement accessibles depuis le plan du site, un moteur de recherche interne est accessible depuis chaque page"
+63,Navigation,1,La consultation du site ne redimensionne pas la fenêtre du navigateur.
+64,Newsletter,1,Un lien de désinscription est présent dans chaque newsletter
+65,Newsletter,1,"Le champ ""destinataire"" de la newsletter ne comprend que le mail du destinataire (ou à défaut un mail ""générique"" créé par l'expéditeur)"
+66,Newsletter,1,L'inscription aux newsletters est soumise à un processus de confirmation.
+67,Présentation,1,La charte graphique est cohérente sur l'ensemble du site.
+68,Sécurité et confidentialité,1,"Le site propose une procédure de réinitialisation du mot de passe en cas de perte, de vol ou d'oubli"
+69,Sécurité et confidentialité,1,Les échanges de données sensibles sont sécurisés et signalés comme tels
+70,Sécurité et confidentialité,1,Les données sensibles ne sont pas transmises en clair dans les URL
+71,Sécurité et confidentialité,1,Les informations sur la sécurité des transactions sont indiquées
+72,Sécurité et confidentialité,1,L'identité des prestataires impliqués dans les transactions est précisée
+73,Sécurité et confidentialité,1,Les certificats de sécurité sont signés et en cours de validité
+74,Sécurité et confidentialité,1,La politique de confidentialité et de respect de la vie privée est accessible depuis toutes les pages
+75,Serveur et Performances,1,Les entêtes envoyés par le serveur contiennent les informations relatives au jeu de caractères employé
+76,Serveur et Performances,1,Le serveur envoie les informations permettant la mise en cache des contenus.
+77,Serveur et Performances,1,L'adresse du site et de ses sous-domaines fonctionnent avec ou sans préfixe www.
+78,Serveur et Performances,1,Le serveur envoie une page d'erreur 404 personnalisée.
+79,Serveur et Performances,1,Le serveur envoie un code http 404 pour les ressources non trouvées
+80,Serveur et Performances,1,Le serveur transmet des contenus compressés aux clients qui les acceptent
+81,Syndication ,1,Le code source des fils de syndication indique leur fréquence de mise à jour
+82,Syndication ,1,Les hyperliens contenus dans les fils de syndication sont absolus.
+83,Syndication ,1,Les fils de syndication sont détectables par les agents utilisateurs
+84,Tableaux,1,Les cellules des tableaux de données sont reliées à leurs en-têtes.
+85,Alternatives,2,L'information n'est pas véhiculée uniquement par la couleur.
+86,Alternatives,2,Les objets inclus sont dotés d'une alternative appropriée
+87,Alternatives,2,Les captchas audio peuvent être réécoutés à volonté
+88,Code,2,Le contenu ne comporte pas de tableaux imbriqués
+89,Code,2,Le codage de caractères utilisé est UTF-8
+90,Code,2,Les textes pouvant être mis en forme via des styles ne sont pas remplacés par des images
+91,Code,2,Les mots ne comportent ni espaces ni balisage interne.
+92,Contact ,2,Le site propose au moins deux moyens de contact
+93,Contact ,2,Chaque demande d'information fait l'objet d'un accusé de réception
+94,Contact ,2,Les délais de réponse aux demandes d'information sont indiqués. 
+95,Contenus,2,Le site fournit aux utilisateurs la possibilité de connaitre les nouveaux contenus ou services
+96,Contenus,2,"Les syntaxes cryptiques (langage SMS, ACSII art, etc) sont explicitées ou traduites"
+97,Code,2,Les éléments visuellement présentés sous forme de liste sont balisés de façon appropriée dans le code source
+98,Code,2,L'emplacement des blocs de navigation est cohérent dans le code source de toutes les pages
+99,Code,2,Le contenu et le sens de chaque page ne sont pas altérés lorsque les styles sont désactivés
+100,Code,2,Le code source de chaque page contient une metadonnée qui définit le jeu de caractères
+101,E-Commerce,2,"Les mentions d'appartenance à un ordre ou groupe professionnel, d'un label ou d'une récompense sont accompagnées d'un lien vers la source"
+102,E-Commerce,2,Les recours en cas de litige sont indiqués dans les conditions générales de vente ou d'utilisation
+103,E-Commerce,2,Les produits indisponibles font l'objet d'une différenciation visuelle et textuelle
+104,E-Commerce,2,Le site accepte au moins deux moyens de paiement
+105,E-Commerce,2,Un courriel indiquant la référence de la transaction et les données de la commande est envoyé suite à la validation.
+106,E-Commerce,2,La référence de la transaction est affichée au client après la validation de sa commande.
+107,E-Commerce,2,Les conditions de débit ou d'encaissement sont spécifiées avant la validation définitive de la commande
+108,E-Commerce,2,Les horaires et tarifs de fonctionnement des services mis à la disposition des utilisateurs sont indiqués
+109,Espaces publics,2,Les contenus ou fichiers destinés à des espaces publics peuvent être vérifiés avant leur envoi définitif
+110,Espaces publics,2,Les conditions de modération des espaces publics sont indiquées
+111,Espaces publics,2,Les espaces publics proposent au moins un moyen de signaler les abus
+112,Fichiers et multimédia ,2,Le texte des documents PDF internes est sélectionnable.
+113,Fichiers et multimédia ,2,La taille des fichiers internes proposés en téléchargement est indiquée.
+114,Fichiers et multimédia ,2,Les vignettes ne sont pas des images de taille supérieure redimensionnées côté client.
+115,Formulaires,2,"En cas de rejet des données saisies dans un formulaire, les raisons du rejet sont indiquées à l'utilisateur."
+116,Formulaires,2,"Lors de la saisie d'un formulaire réparti sur plusieurs pages, un récapitulatif global est affiché avant l'envoi définitif."
+117,Formulaires,2,"En cas de rejet des données saisies dans un formulaire, toutes les données saisies peuvent être modifiées par l'utilisateur."
+118,Formulaires,2,La soumission d'un formulaire est suivie d'un message indiquant la réussite ou non de l'action souhaitée
+119,Formulaires,2,"L'étiquette de chaque champ de formulaire indique, le cas échéant, quel format de saisie doit être respecté"
+120,Hyperliens,2,"Les hyperliens de même nature ont des couleurs, des formes et des comportements identiques sur toutes les pages."
+121,Hyperliens,2,Le survol ou l'activation des hyperliens ne modifie pas la mise en page.
+122,Hyperliens,2,Le site n'interdit pas la mise en place de liens entrants
+123,Hyperliens,2,Tous les hyperliens internes du site sont valides.
+124,Hyperliens,2,Le site n'applique pas le même style aux liens visités et non visités
+125,Identification ,2,La racine du site contient des instructions pour les robots d'indexation
+126,Identification ,2,Le code source de chaque page contient une metadonnée qui en décrit le contenu
+127,Identification ,2,L'adresse complète et le numéro de téléphone des sociétés et organisations sont accessibles depuis toutes les pages du site
+128,Identification ,2,Le code source des pages contient un appel valide à un icône de favori.
+129,Internationalisation ,2,La langue principale de la page cible d'un hyperlien est identifiable lorsqu'elle diffère de celle de la page d'origine
+130,Internationalisation ,2,Chaque page permet d'accéder à ses traductions disponibles
+131,Navigation,2,Les icônes de navigation sont accompagnées d'une légende explicite
+132,Navigation,2,Chaque page contient des liens d'accès rapide placés au début du code source
+133,Navigation,2,"La page de résultats de recherche indique le nombre de résultats, le nombre de pages de résultats, et le nombre de résultats par page"
+134,Navigation,2,La navigation au clavier s'effectue dans un ordre prévisible.
+135,Navigation,2,Les nouvelles fenêtres dimensionnées et les fenêtres modales sont dotées d'un bouton de fermeture explicite
+136,Navigation,2,Les blocs de navigation de même nature sont affichés au même emplacement sur toutes les pages
+137,Navigation,2,Les liens provoquant l'ouverture d'un logiciel externe ont un libellé explicite.
+138,Navigation,2,"Si le site n'est pas réservé à un public spécifique, l'accès aux contenus est immédiat"
+139,Navigation,2,Un contenu qui doit être restitué dans un lecteur d'écran ne lui est pas dissimulé
+140,Présentation,2,Le site propose au moins une feuille de style dédiée à l'impression
+141,Présentation,2,Une famille générique de police est indiquée comme dernier élément de substitution.
+142,Présentation,2,La taille des polices destinées à l'affichage écran est exprimée en taille variable et non en taille fixe.
+143,Sécurité et confidentialité,2,Le serveur n'envoie pas la liste des fichiers des répertoires n'ayant pas de page d'index
+144,Sécurité et confidentialité,2,L'objectif des cookies et les limitations inhérentes à leur refus sont expliqués
+145,Sécurité et confidentialité,2,Les comptes ou abonnements ouverts en ligne peuvent être fermés par le même moyen.
+146,Serveur et Performances,2,Le serveur envoie l'indication de la langue principale du contenu.
+147,Tableaux,2,Les titres des tableaux de données sont renseignés.
+148,Sécurité et confidentialité,2,Les mots de passe peuvent être choisis ou changés par l'utilisateur
+149,Sécurité et confidentialité,2,La procédure d'accès et de rectification des données personnelles est décrite
+150,Serveur et Performances,2,Le serveur envoie une page d'interdiction 403 personnalisée.
+151,Syndication ,2,Le site propose au moins un lien vers chaque fil de syndication.
+152,Tableaux,2,La linéarisation des tableaux utilisés pour la mise en page ne nuit pas à la compréhension des contenus
+153,Tableaux,2,Les tableaux de données ne sont pas simulés à l'aide de texte mis en forme
+154,Alternatives,3,Les captchas sont accompagnés d'une solution alternative d'accès 
+155,Alternatives,3,Chaque contenu audio et vidéo est accompagné de sa transcription textuelle
+156,Code,3,Les styles en ligne sont utilisés de manière appropriée
+157,Code,3,Le code source de chaque page ne comporte pas d'erreur portant sur l'arbre du document ou la syntaxe des balises et attributs.
+158,Code,3,Le code source de chaque page ne contient pas d'éléments ou d'attributs de présentation
+159,Code,3,Les dimensions réelles des images sont indiquées dans le code source.
+160,Code,3,La première occurence d'une abréviation ou d'un acronyme dans le corps de chaque page donne accès à sa signification
+161,Code,3,L'accès aux contenus et services est possible sans le support des scripts
+162,Code,3,Le code source des pages est valide au regard de la grammaire choisie
+163,Code,3,Les citations sont balisées de façon appropriée
+164,Code,3,Le code source de chaque page ne contient pas d'éléments détournés à des fins de présentation
+165,Contact ,3,Les données contenus dans le Whois du site permettent de le relier directement à son propriétaire
+166,Contenus,3,Les symboles graphiques sont des images HTML et non des caractères unicode.
+167,Contenus,3,Un lexique ou un glossaire adapté au public visé explique le vocabulaire sectoriel ou technique
+168,Contenus,3,Le contenu de chaque page du site ne comporte pas de faute d'orthographe
+169,Contenus,3,"Si le site propose un espace personnel ou abonné, il est possible de sauvegarder les contenus personnels dans un format standard"
+170,Contenus,3,Une metadonnée indique l'URL de référence des contenus proposés sous plusieurs formes.
+171,E-Commerce,3,Le site propose au moins un moyen de contacter le responsable des réclamations.
+172,E-Commerce,3,"Les conditions de remboursement (délais, frais et justificatifs exigés) sont indiquées"
+173,E-Commerce,3,"L'adresse et les conditions de retour des produits (sur site, atelier) sont indiqués"
+174,E-Commerce,3,Chaque réclamation fait l'objet d'un accusé de réception
+175,E-Commerce,3,Le mode de dépôt et la procédure de traitement des réclamations sont indiqués
+176,Espaces publics,3,Les informations destinées à des espaces publics peuvent être prévisualisées sous la forme o√π elles seront affichées.
+177,Fichiers et multimédia ,3,Le déroulement des animations ne bloque pas la navigation ou l'accès aux contenus
+178,Fichiers et multimédia ,3,Un lien d'information est proposé pour chaque plugin nécessaire à la consultation du contenu
+179,Fichiers et multimédia ,3,Les documents PDF internes sont balisés.
+180,Formulaires,3,Les validations de formulaires côté client ont une alternative côté serveur.
+181,Formulaires,3,L'utilisateur est averti lorsque une saisie est sensible à la casse
+182,Formulaires,3,Chaque étiquette de formulaire est visuellement rattachée au champ qu'elle décrit
+183,Formulaires,3,Les champs de formulaire qui nécessitent une information commune sont regroupés sous une même légende 
+184,Formulaires,3,Les éléments d'une liste déroulante qui peuvent être regroupés le sont de manière appropriée
+185,Formulaires,3,Les listes d'options de formulaires sont présentées dans un ordre identifiable
+186,Hyperliens,3,Les hyperliens consécutifs sont séparés visuellement
+187,Hyperliens,3,Le libellé de chaque hyperliens décrit sa fonction ou la nature du contenu vers lequel ils pointe
+188,Hyperliens,3,Les hyperliens internes et externes sont différenciés.
+189,Identification ,3,"L'extension utilisée est cohérente avec l'identité, l'activité, la zone géographique couverte ou avec le nom de domaine"
+190,Identification ,3,"Si le site déclare respecter un ou plusieurs standards ou référentiels, un lien est proposé vers chacun d'entre eux."
+191,Identification ,3,Le site propose un fichier sitemap indiquant les contenus à explorer
+192,Internationalisation ,3,Les liens vers les versions équivalentes de la page ou du site sont rédigés dans leur langue cible.
+193,Internationalisation ,3,Chaque changement de langue est signalé
+194,Internationalisation ,3,Les liens d'accès aux versions traduites pointent directement vers la traduction de la page courante.
+195,Internationalisation ,3,"La langue des fichiers en téléchargement est précisée, lorsqu'elle diffère de celle de la page d'origine."
+196,Internationalisation ,3,Le sens de lecture du contenu est indiqué lorsqu'il diffère de celui par défaut.
+197,Navigation,3,La navigation sur le site ne provoque pas d'ouvertures de nouvelles fenêtres
+198,Newsletter,3,La désinscription aux newsletters est possible depuis le site
+199,Newsletter,3,La date de diffusion et/ou le numéro des newsletters sont indiqués dans le sujet des messages.
+200,Newsletter,3,La dernière newsletter envoyée est disponible en ligne
+201,Newsletter,2,La fréquence d'envoi des newsletters est consultable avant l'abonnement
+202,Newsletter,3,Les archives de newsletter sont disponibles en ligne
+203,Présentation,3,Le nombre de polices utilisées sur le site est inférieur ou égal à trois (sauf présentation de travaux ou produits graphiques).
+204,Présentation,3,Les contenus sont présentés avec un contraste suffisant par rapport à leur arrière-plan
+205,Présentation,3,Le contenu de chaque page est disponible à l'impression sans blocs de navigation
+206,Présentation,3,Le site propose une ou plusieurs feuilles de style dédiées aux terminaux mobiles
+207,Présentation,3,Les phrases ou ensembles de mots mis en images ne sont pas divisés
+208,Présentation,3,"Un contenu n'est pas désigné uniquement par sa forme, ou par sa position à l'écran."
+209,Présentation,3,Le contenu textuel reste lisible avec une taille de caractère augmentée d'un facteur 2 dans le navigateur.
+210,Présentation,3,Les mises en majuscules à des fins décoratives sont effectuées à l'aide des styles
+211,Sécurité et confidentialité,3,Un dispositif sensibilise l'utilisateur sur le degré de sécurisation du mot de passe qu'il choisit
+212,Serveur et Performances,3,Le serveur respecte l'ordre préférentiel de langues des outils de consultation.
+213,Serveur et Performances,3,Les appels aux scripts sont placés après le contenu
+214,Serveur et Performances,3,Le menu principal de navigation figure sur les pages d'erreur personnalisées.
+215,Serveur et Performances,3,Les fonctions de scripts sont placés dans des fichiers externes.
+216,Serveur et Performances,3,Les scripts sont minifiés
+217,Serveur et Performances,3,Les informations de style sont minifiées

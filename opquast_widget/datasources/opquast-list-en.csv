@@ -1,0 +1,217 @@
+1,Alternatives,1,Every image is provided with a proper alternative text
+2,Code,1,The page's source code begins with a Document Type Declaration (DTD) whose syntax is one of those recommended by the W3C
+3,Code,1,Each page's content is organised according to a hierarchical heading and sub-heading structure
+4,Code,1,The site forces no redirection or automatic refresh on the client side
+5,Code,1,Styling is not used to generate content
+6,Code,1,Dates are presented in an explicit format
+7,Contact,1,The site provides at least one means of contact
+8,Contact,1,Mail and phone information about local agencies or headquarters of companies and organisations are provided
+9,Content,1,Each page provides a title that enables one to identify its content
+10,Content,1,Information in regard to the right to copy and reuse are available from all pages
+11,Content,1,Advertisement or sponsored contents are identified as such
+12,Content,1,Each page provides a title that enables one to identify the site
+13,E-commerce,1,"Financing conditions (global credit cost, conditions, reservations, agreement delays) are indicated"
+14,E-commerce,1,Estimated delivery date is indicated before final order placement
+15,E-commerce,1,Sale and use terms and conditions can be reached from every page
+16,E-commerce,1,The legal registration number delivered to companies or organisations in their original country is indicated
+17,E-commerce,1,"The nature and quantifiable characteristics of products and services (dimensions, duration, countenance, etc.) are indicated"
+18,E-commerce,1,The availability of products is indicated before the final order submission
+19,E-commerce,1,"Prices displayed show the details of taxes and possible additional costs, as well as the price excluding taxes"
+20,E-commerce,1,The period and conditions of availability for special offers are indicated
+21,E-commerce,1,"Modifying each article's quantity, adding and deleting one or more articles is still possible as long as the order has not been definitely placed"
+22,E-commerce,1,"The detailed subtotal (quantities, amount, expenses, insurance, etc.) is indicated before final order placement"
+23,E-commerce,1,"Accepted payment means are indicated, as well as procedures for each of them "
+24,E-commerce,1,"Conditions of guarantee (duration, options, extensions, prices, restrictions, etc.) are indicated"
+25,E-commerce,1,"Customer support service conditions (prices, opening hours, means of contact, etc.) are indicated"
+26,E-commerce,1,Different shipping and billing addresses can be specified
+27,E-commerce,1,Information about zones of product or service delivery are indicated
+28,E-commerce,1,No additional product or service is added to the shopping cart without customer action
+29,Public spaces,1,The site provides at least one means of contacting the moderator of public spaces
+30,Files and Multimedia,1,The length of video and audio contents is indicated
+31,Files and Multimedia,1,Sounds and videos are started by the user
+32,Forms,1,The creation of a password by the user is validated by a double input
+33,Files and Multimedia,1,The format of downloadable files is  indicated
+34,Files and Multimedia,1,"Animations, sounds and blinking can be paused"
+35,Forms,1,Each form field is associated with its own label in the source code
+36,Forms,1,"In the case when data entered in a form were rejected, the fields containing the rejected data are indicated to the user"
+37,Forms,1,Complex processes are provided with a list of steps
+38,Forms,1,The current step in a process is indicated
+39,Forms,1,The label of each form field indicates if input is mandatory
+40,Forms,1,The page displayed after form submission must enable the user to navigate straight away
+41,Hyperlinks,1,Each link has a proper label in the source code
+42,Hyperlinks,1,Underlining cannot be used for other elements than hyperlinks
+43,Hyperlinks,1,Hyperlinks are visually differentiated from the rest of the content
+44,Identification,1,The identity of the person or of the service responsible for the contents is provided
+45,Identification,1,The site's name and/or the author's name are provided on each page
+46,Identification,1,"The identity of the author, the company or the organisation is provided"
+47,Identification,1,The home page explains the nature of contents and services provided
+48,Identification,1,"If the site is restricted or destined to a specific public, this public is mentioned at least on the home page"
+49,Internationalization,1,Each page's source code specifies the content's main language
+50,Internationalization,1,The country is mentioned in all post addresses
+51,Internationalization,1,Each phone number is provided in an international format
+52,Navigation,1,The site does not use framesets
+53,Navigation,1,Iframes have an explicit title attribute
+54,Navigation,1,"If all the pages in a site cannot be reached directly from the home page, then a site map can be reached from each page"
+55,Navigation,1,Each page gives information as to where it is located in the site's hierarchy
+56,Navigation,1,It is possible to go back to the home page from any page
+57,Navigation,1,The site can be navigated in its entirety using only a keyboard
+58,Navigation,1,Keyboard focus is neither removed nor hidden
+59,Navigation,1,The user is warned when new windows have to be opened
+60,Navigation,1,Navigating the site does not open any popup window
+61,Navigation,1,The site does not contain any link to pages under construction
+62,Navigation,1,"If all the pages in the site cannot be reached through the site map, then an internal search engine can be reached on each page"
+63,Navigation,1,The site does not resize the browser window
+64,Newsletter,1,An 'unsubscribe' link is provided in each newsletter
+65,Newsletter,1,"The “to” field in a newsletter shows only the recipient's address (or, alternatively, a generic email address created by the sender)"
+66,Newsletter,1,Subscribing to newsletters is subjected to a prior confirmation process
+67,Presentation,1,The design is consistent all over the site
+68,Security and Privacy,1,"The site provides a way to reinitialise a password if it's lost, stolen or forgotten"
+69,Security and Privacy,1,Sensitive data are securely transmitted and signalled as such
+70,Security and Privacy,1,Sensitive data are not transmitted literally through URLs
+71,Security and Privacy,1,Information relative to transaction security are provided
+72,Security and Privacy,1,The identity of third-parties involved in transactions is provided
+73,Security and Privacy,1,Security certificates are signed and currently valid
+74,Security and Privacy,1,The privacy policy can be reached from any page
+75,Server and performance,1,Headers sent by the server contain information pertaining to the character set used
+76,Server and performance,1,The server sends information to enable the caching of contents
+77,Server and performance,1,The address of the site and of its subdomains works with and without a www prefix
+78,Server and performance,1,The server sends a personalised 404 Not found error page
+79,Server and performance,1,The server sends a 404 HTTP error code for resources not found
+80,Server and performance,1,The server compresses contents if the client accepts compressed contents
+81,Syndication,1,The source code of syndication feeds indicates their update frequency
+82,Syndication,1,Hyperlinks in syndication feeds are absolute
+83,Syndication,1,Syndication feeds can be detected by user agents
+84,Tables,1,Cells in data tables are linked to their headers
+85,Alternatives,2,Information are not conveyed by colour alone
+86,Alternatives,2,Embedded objects are provided with a proper alternative
+87,Alternatives,2,Audio captchas can be played again at will
+88,Code,2,The content does not include nested tables
+89,Code,2,The character encoding used is UTF-8
+90,Code,2,Text that can be designed through styles is not replaced by images
+91,Code,2,Words do not bear any internal space or markup
+92,Contact,2,The site provides at least two means of contact
+93,Contact,2,Every information request is met with an acknowledgement of receipt
+94,Contact,2,Delays for replies to information requests are given
+95,Content,2,The site provides users with a way to know about new contents and services
+96,Content,2,"Cryptic syntaxes (SMS language, ASCII art, etc.) are explained or translated"
+97,Code,2,Elements which are presented visually as lists are tagged in an appropriate way in the source code
+98,Code,2,Navigation blocks are in a consistent place in the source code of all pages 
+99,Code,2,The content and meaning of each page are not altered when styles are disabled
+100,Code,2,Each page's source code contains a metadata defining the character set used
+101,E-commerce,2,"Any affiliation to a professional association, endorsement of a label or an award features a link to its source"
+102,E-commerce,2,The way to solve litigations is indicated in the terms and conditions
+103,E-commerce,2,Unavailable products are visually and textually differentiated
+104,E-commerce,2,The site accepts at least two means of payment
+105,E-commerce,2,An email indicating the transaction's reference and the content of the order is sent following order placement
+106,E-commerce,2,The transaction reference is shown to the customer after the order has been placed
+107,E-commerce,2,Debiting or cashing conditions are specified before final order placement
+108,E-commerce,2,Opening hours and prices for all services made available to customers are indicated
+109,Public spaces,2,Contents and files destined to public spaces can be checked before final upload
+110,Public spaces,2,Conditions of moderation in public spaces are indicated
+111,Public spaces,2,Public spaces provide at least one means of reporting abuse
+112,Files and Multimedia,2,The text of internal PDF documents can be selected
+113,Files and Multimedia,2,The size of files that can be downloaded on the site itself is indicated
+114,Files and Multimedia,2,Thumbnails are not bigger images that were resized on the client side
+115,Forms,2,"In the case when data entered in a form was rejected, the reasons for the rejection are indicated to the user"
+116,Forms,2,"When a form spans several pages, a global summary is displayed before the final form submission"
+117,Forms,2,"In the case when data entered in a form was rejected, all the data entered can be modified by the user"
+118,Forms,2,The submission of a form is followed by a feedback message indicating if the action worked or not
+119,Forms,2,The label of each form field indicates if need be what input format must be used
+120,Hyperlinks,2,"Hyperlinks of the same nature have identical colours, shapes and behaviours on all pages"
+121,Hyperlinks,2,"Hovering over, or activating, hyperlinks does not alter the layout"
+122,Hyperlinks,2,The site does not forbid incoming links
+123,Hyperlinks,2,All hyperlinks internal to the site are valid
+124,Hyperlinks,2,The site applies a different style to unvisited and visited links
+125,Identification,2,The site's root contains instructions for spiders and robots
+126,Identification,2,The source code for each page contains a metadata describing the page's content
+127,Identification,2,The complete address and phone number of companies and organisations can be reached from each page of the site
+128,Identification,2,The source code of the pages contains a valid call to a favourite icon (“favicon”)
+129,Internationalization,2,The main language of a link's target page is provided if it differs from the original page
+130,Internationalization,2,Each page provides a link to available translations
+131,Navigation,2,Navigation icons are provided with an explicit legend
+132,Navigation,2,Each page provides “skip links” at the beginning of its source code
+133,Navigation,2,"The search result page indicates the number of results, the number of pages of results, and the number of results per page"
+134,Navigation,2,Keyboard navigation happens in an foreseeable order
+135,Navigation,2,"New windows that are resized, as well as modal windows, are provided with an explicit close button"
+136,Navigation,2,Navigation blocks of the same nature are in a consistent place on every page
+137,Navigation,2,Links to an external software have an explicit label
+138,Navigation,2,"If the site is not restricted to a specific public, content is available immediately"
+139,Navigation,2,A content that must be read by a screen reader is not hidden from it
+140,Presentation,2,The site provides at least one print stylesheet
+141,Presentation,2,A generic font family is listed as the last alternative in font family lists
+142,Presentation,2,The display font size is set in variable units and not in fixed units
+143,Security and Privacy,2,The server does not list files in folders that do not have index files
+144,Security and Privacy,2,"The aim of using cookies, as well as the consequences of refusing them, are explained"
+145,Security and Privacy,2,Accounts and subscriptions opened online can be closed online
+146,Server and performance,2,The server sends the main language of contents as a header
+147,Tables,2,Captions for data tables are provided
+148,Security and Privacy,2,Passwords can be chosen and changed by the user
+149,Security and Privacy,2,The process of accessing and modifying personal data is explained
+150,Server and performance,2,The server sends a personalised 403 Not allowed error page
+151,Syndication,2,The site provides at least one link to each syndication feed
+152,Tables,2,Linearising tables used for layout does not impede the understanding of contents
+153,Tables,2,Data tables are not simulated through styled text
+154,Alternatives,3,An alternative way is provided wherever captchas are used
+155,Alternatives,3,Every audio or video content is provided with a text transcript
+156,Code,3,Inline styles are used in an appropriate way
+157,Code,3,The page's source code includes no error in either the tree of the document or the syntax of tags and attributes
+158,Code,3,Each page's source code does not contain any presentational tag or attribute
+159,Code,3,Real dimensions of images are indicated in the source code
+160,Code,3,The first occurrence of an abbreviation or of an acronym in the content of any page gives access to its meaning
+161,Code,3,Contents and services are available even if scripts are disabled
+162,Code,3,The page's source code is valid according to the chosen grammar
+163,Code,3,Quotations are tagged in an appropriate way in the source code
+164,Code,3,Each page's source code contains no element that was misused for presentational purposes
+165,Contact,3,The data contained in the site's WHOIS information make it possible to get to the owner directly
+166,Content,3,Graphical symbols are HTML images and not unicode characters
+167,Content,3,A lexicon or a glossary adapted to the target audience explains the professional or technical vocabulary
+168,Content,3,The content of each page of a site contains no spelling mistake
+169,Content,3,"If the site provides a personal space (or a subscriber space), it is possible to backup personal data in a standard format"
+170,Content,3,A metadata indicates the reference URL for contents provided in several forms
+171,E-commerce,3,The site provides at least one means of contacting the person to whom complaints can be placed
+172,E-commerce,3,"Refunding conditions (delays, expenses and vouchers needed) are indicated"
+173,E-commerce,3,"The address and the conditions for returns (on site, to workshops) are indicated"
+174,E-commerce,3,Each complaint is met with an acknowledgement of receipt
+175,E-commerce,3,The way to file complaints and the way they are processed are indicated
+176,Public space,3,Information destined to public spaces can be previewed in their final presentation
+177,Files and Multimedia,3,Running animations does not block access to navigation or content
+178,Files and Multimedia,3,An information link is provided for each plugin necessary to access the content
+179,Files and Multimedia,3,Internal PDF documents are tagged
+180,Forms,3,Form validation on the client side is also done on the server side
+181,Forms,3,The user is told when a form input is case-sensitive
+182,Forms,3,Each form label is visually linked to the form field it describes
+183,Forms,3,Form fields that require a common information are grouped under a single legend
+184,Forms,3,Elements of a drop-down list that can be grouped are indeed grouped in a proper way
+185,Forms,3,Option lists in forms are presented in an understandable order
+186,Hyperlinks,3,Consecutive hyperlinks are separated visually
+187,Hyperlinks,3,Each hyperlink's label describes either its function or the nature of its target
+188,Hyperlinks,3,Internal and external hyperlinks are differentiated
+189,Identification,3,"The extension used is coherent with the identity, the activity, the geographical zone or with the domain name"
+190,Identification,3,"If the site claims to abide to on or more standards and guidelines, a link is provided to each of them"
+191,Identification,3,The site provides a sitemap file listing contents to be crawled
+192,Internationalization,3,Links to equivalent versions of a page or site are written in the target language
+193,Internationalization,3,Each language change is signalled
+194,Internationalization,3,Links to translated versions directly target the current page's translation
+195,Internationalization,3,The language of downloadable files is mentioned if it is not the same as the original page
+196,Internationalization,3,The content's text direction is indicated when it differs from default
+197,Navigation,3,Navigating the site does not forcefully open any new window
+198,Newsletter,3,It is possible to unsubscribe from newsletters from the site
+199,Newsletter,3,The publication date and/or the issue number of the newsletter are indicated in the subject of messages
+200,Newsletter,3,The latest newsletter sent is available online
+201,Newsletter,2,The frequency of newsletters can be found before subscribing
+202,Newsletter,3,Newsletter archives are available online
+203,Presentation,3,The amount of different fonts used on the site is less than or equal to three (except when showing works or graphic products)
+204,Presentation,3,Contents are presented with a sufficient contrast with their background
+205,Presentation,3,The content of each page can be printed without navigation blocks
+206,Presentation,3,The site provides one or more style sheets for mobile browsers
+207,Presentation,3,Sentences or groups of words in text images are not cut up in several images
+208,Presentation,3,A content is not mentioned only in reference to its shape or to its position on the screen
+209,Presentation,3,Text content can still be read when text is increased twice in the browser
+210,Presentation,3,Capitalisation of words for decorative purposes is achieved through styling
+211,Security and Privacy,3,A mechanism raises the user's awareness regarding their password's level of security
+212,Server and performance,3,The server respects the preferential order of languages specified in user agents
+213,Server and performance,3,Calls to external scripts are put after the content
+214,Server and performance,3,The main navigation menu is featured on personalised error pages
+215,Server and performance,3,Script functions are put into external files
+216,Server and performance,3,Scripts are minified
+217,Server and performance,3,Style information are minified
