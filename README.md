@@ -14,7 +14,7 @@ Currently, it's not possible to install a RSS widget from a link, so copy/paste 
 
 ### Preview
 You should have something like :
-`#10 - Content - Information in regard to the right to copy and reuse are available from all pages`
+`#10 - Content - Information in regard to the right to copy and reuse are available from all pages`  
 Then you can "touch" to go to the criterion sheet in Safari.
 
 ### License
