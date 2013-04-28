@@ -9,8 +9,8 @@ So i have generated two RSS files ( _FR / EN_ ) of the best practices, to displa
 ### Install
 Currently, it's not possible to install a RSS widget from a link, so copy/paste the url you want in your RSS Widget configuration:
 
-* **[EN]** `http://cvergne.github.io/opquast_statusboard/opquast_widget/rss/opquast-list-en.rss`
-* **[FR]** `http://cvergne.github.io/opquast_statusboard/opquast_widget/rss/opquast-list-fr.rss`
+* **`EN`**  http://cvergne.github.io/opquast_statusboard/opquast_widget/rss/opquast-list-en.rss
+* **`FR`**  http://cvergne.github.io/opquast_statusboard/opquast_widget/rss/opquast-list-fr.rss
 
 ### Preview
 You should have something like :
